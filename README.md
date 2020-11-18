@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **NextJS, Cypress, Distributed systems with NodeJs & Docker**
 - 💬 Ask me about **React, Typescript, NextJS, React-Native, Docker, Cypress, NodeJs, Projects Management, Software architecture & Accessibility**
 - 📫 How to reach me: **aimadev.soft@gmail.com**
-- ⚡ Fun fact: - **I love building Mobile or Web Apps 
+- ⚡ Fun fact: - **I love building Mobile or Web Apps**
               - **reading anything related to tech**
               - **reading anything related to Business**
               - **Birdwatching**
