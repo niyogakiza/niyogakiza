@@ -4,7 +4,7 @@
 <h3 align="center">A passionate fullstack developer from :it: living :uk:</h3>
 
 - :office: I'm currently working at DRPG [https://www.drpgroup.com/](https://www.drpgroup.com/)
-- 🔭 I’m currently working on personal project https://github.com/DIGIT-RWANDA/mishop using `React` & `Typescript`
+- 🔭 I’m currently working on personal project https://github.com/DIGIT-RWANDA/mishop using `React` - `Typescript` - `Cypress` - `NextJs` - `NodeJs` - `Docker`
 - 🌱 I’m currently learning **NextJS, Cypress, Distributed systems with NodeJs & Docker**
 - 💬 Ask me about **React, Typescript, NextJS, React-Native, Docker, Cypress, NodeJs, Projects Management, Software architecture & Accessibility**
 - 📫 How to reach me: **aimadev.soft@gmail.com**
