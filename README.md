@@ -11,7 +11,7 @@
 - ⚡ Fun fact: - **I love building Mobile or Web Apps**
               - **reading anything related to tech and business**
               - **Birdwatching**
-              - **Communicating with people to understand their different views**
+              - **Communicating with peoples**
             
             
 [![niyogakiza's github stats](https://github-readme-stats-tau-one.vercel.app/api?username=niyogakiza&show_icons=true&theme=radical&show=stars)](https://github.com/niyogakiza/github-readme-stats)
