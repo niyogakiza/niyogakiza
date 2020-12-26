@@ -5,7 +5,7 @@
 
 - :office: I'm currently working fulltime at #company.
 - 🔭 I’m currently working on personal project https://github.com/DIGIT-RWANDA/mishop using `React` - `Typescript` - `Cypress` - `Jest` - `NextJs` - `NodeJs` - `Docker` - `Kubernates` - `AWS`
-- 🌱 I’m currently learning **NextJS, Cypress, Distributed systems with NodeJs & Docker**
+- 🌱 I’m currently learning **Distributed systems with NodeJs & Docker**
 - 💬 Ask me about **React, Typescript, NextJS, React-Native, Docker, Cypress, NodeJs, Testing, Nx, Kubernates, Projects Management, Software architecture & Accessibility**
 - 🗣 Language I do speak: **English, French, Italian**, Swahili, Luganda, Kinyarwanda
 - 📫 How to reach me: **aimadev.soft@gmail.com**
