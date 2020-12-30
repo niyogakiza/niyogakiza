@@ -4,7 +4,7 @@
 <h3 align="center">A passionate fullstack developer from :it: living :uk:</h3>
 
 - :office: I'm currently employed fulltime as Frontend engineer.
-- 🔭 I’m currently working on personal project https://github.com/DIGIT-RWANDA/mishop using `React` - `Typescript` - `Cypress` - `Jest` - `NextJs` - `NodeJs` - `Docker` - `Kubernates` - `AWS`
+- 🔭 I’m currently working on personal project https://mipervalstore.com/ using `React` - `Typescript` - `Cypress` - `Jest` - `NextJs` - `NodeJs` - `Docker` - `Kubernates` - `AWS`
 - 🌱 I’m currently learning **Distributed systems with NodeJs & Docker**
 - 💬 Ask me about **React, Typescript, NextJS, React-Native, Docker, Cypress, NodeJs, Testing, Nx, Kubernates, Projects Management, Software architecture & Accessibility**
 - 🗣 Language I do speak: **English, French, Italian**, Swahili, Luganda, Kinyarwanda
