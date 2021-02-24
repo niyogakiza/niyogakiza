@@ -13,6 +13,35 @@
               - **reading anything related to tech and business**
               - **Birdwatching**
               - **Communicating with peoples**
+
+<h3 align="center"> The books that I read :books:</h3>
+
+- :book: SOLID : Introduction to Software Architecture and Design Principles with Node.js and Typescript by Khalil Stemmler
+- :book: Systems Analysis and Design by Scott Tilley
+- :book: The Manager's path by by Camille Fournier
+- :book: Making things happen by Scott Berkun
+- :book: Product Leadership by Martin Eriksson, Nate Walkingshaw, Richard Banfield
+- :book: Distributed Systems with Node.js by Thomas Hunter
+- :book: Accessibility for Everyone by Laura Kalbag
+- :book: The Pragmatic Programmer by David Thomas, Andrew Hunt
+- :book: JavaScript: The Definitive Guide, 7th Edition
+- :book: Clean Architecture: A Craftsman’s Guide to Software Structure and Design by Robert C. Martin
+- :book: SPA Design and Architecture: Understanding single-page web applications by Emmit A. Scott Jr.
+- :book: Documenting Software Architectures: Views and Beyond, Second Edition
+- :book: Refactoring : Improving the Design of Existing Code by Martun Fowler with Kent Beck
+- :book: Thinking in Java: The definitive introduction to object-oriented programming in the language of the world wide web by Bruce Eckel
+- :book: CCNA: Cisco Certified Network Associate
+- :book: TCP/IP Illustrated volume 1: The protocols by W. Richard Stevens
+- :book: Linux Bible 9th edition: The complehensive Tutorial Resources
+- :book: Rapid Development: Taming wild software schedules by Steve McConnell
+- :book:Estimating Software-Intensive Systems: Projects, Products, and Process by Richard D.Stutzke
+- :book: Hands-On Machine Learning with Scikit-Learn keras & TensorFlow: Concepts, Tools, and Techniques to build Intelligent Systems by Aurelien Geron
+- :book: Mastering Swift 3 by Jon Hoffman
+- :book: Laravel up & Running by Matt Stauffer
+- :book: Programming Typescript by making your Javascript applications scale by Boris Cherny
+- :book: Web development with Node & Express: Leveraging the Javascript Stack by Ethan Brown
+- :book: Data Science from Scratch: First principles with python by Joel Grus
+- :book: Fullstack React Native by Devin Abbott, Houssein ...
             
             
 [![niyogakiza's github stats](https://github-readme-stats-tau-one.vercel.app/api?username=niyogakiza&show_icons=true&theme=radical&show=stars)](https://github.com/niyogakiza/github-readme-stats)
