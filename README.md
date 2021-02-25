@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏽, I'm Aimable Niyogakiza</h1>
 
 
-<h3 align="center">A passionate fullstack developer from :it: living :uk:</h3>
+<h3 align="center">A passionate software developer from :it: living :uk:</h3>
 
 - :office: I'm currently employed fulltime as Frontend engineer.
 - 🔭 I’m currently working on personal project https://mipervalstore.com/ using `React` - `Typescript` - `Cypress` - `Jest` - `NextJs` - `NodeJs` - `Docker` - `Kubernates` - `AWS` - `PWA`
