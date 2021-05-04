@@ -6,15 +6,16 @@
 - :office: I'm currently employed fulltime as Frontend engineer.
 - 🔭 I’m currently working on personal project https://mipervalstore.com/ using `React` - `Typescript` - `Cypress` - `Jest` - `NextJs` - `NodeJs` - `Docker` - `Kubernates` - `AWS` - `PWA`
 - 🌱 I’m currently learning **Google Cloud architect & AWS solutions architect** at https://cloudacademy.com/
-- 💬 Ask me about **React, Typescript, NextJS, React-Native, Docker, Cypress, NodeJs, Testing, Nx, Kubernates, Projects Management, Software architecture & Accessibility**
+- ❔ Ask me about **React, Typescript, NextJS, React-Native, Docker, Cypress, NodeJs, Testing, Nx, Kubernates, Projects Management, Software architecture & Accessibility**
 - 🗣 Language I do speak: **English, French, Italian**, Swahili, Luganda, Kinyarwanda
 - 📫 How to reach me: **aimadev.soft@gmail.com**
-- ⚡ Fun fact: - **I love building Mobile or Web Apps**
-              - **reading anything related to tech and business**
-              - **Birdwatching**
-              - **Communicating with peoples**
+- ⚡ Fun fact:
+   - :iphone: :desktop_computer:I love building Mobile or Web Apps with React and React-native
+   - :technologist: Reading anything related to tech and business
+   - :bird: Birdwatching
+   - :speech_balloon: Communicating with peoples
 
-<h3 align="center"> The books that I read :books:</h3>
+<h3 align="center"> The books that I read or listened :books:</h3>
 
 - :book: SOLID : Introduction to Software Architecture and Design Principles with Node.js and Typescript by Khalil Stemmler
 - :book: Systems Analysis and Design by Scott Tilley
@@ -26,6 +27,7 @@
 - :book: The Pragmatic Programmer by David Thomas, Andrew Hunt
 - :book: JavaScript: The Definitive Guide, 7th Edition
 - :book: Clean Architecture: A Craftsman’s Guide to Software Structure and Design by Robert C. Martin
+- :book: The Clean Coder: A code of Conduct for Professional Programmers by Robert C. Martin
 - :book: SPA Design and Architecture: Understanding single-page web applications by Emmit A. Scott Jr.
 - :book: Documenting Software Architectures: Views and Beyond, Second Edition
 - :book: Refactoring : Improving the Design of Existing Code by Martun Fowler with Kent Beck
