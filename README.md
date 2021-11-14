@@ -3,7 +3,7 @@
 
 <h3 align="center">A passionate software developer from :it: living :uk:</h3>
 
-- :office: I'm currently employed fulltime as Frontend engineer.
+- :office: I'm currently employed fulltime as Frontend/React native engineer at BOXT.
 - 🔭 I’m currently working on personal project https://mipervalstore.com/ using `React` - `Typescript` - `Cypress` - `Jest` - `NextJs` - `NodeJs` - `Docker` - `Kubernates` - `AWS` - `PWA`
 - 🌱 I’m currently learning **Google Cloud architect & AWS solutions architect** at https://cloudacademy.com/
 - ❔ Ask me about **React, Typescript, NextJS, React-Native, Docker, Cypress, NodeJs, Testing, Nx, Kubernates, Projects Management, Software architecture & Accessibility**
