@@ -1,12 +1,10 @@
-<h1 align="center">Hi 👋🏽, I'm Aimable Niyogakiza</h1>
+<h1 align="center">Hi 👋🏽, I'm Aimable Niyogakiza</h1> 
 
+<h3 align="center">A passionate software developer from 🇷🇼~:it: living :uk:</h3>
 
-<h3 align="center">A passionate software developer from :it: living :uk:</h3>
-
-- :office: I'm currently employed fulltime as Frontend/React native engineer at BOXT.
-- 🔭 I’m currently working on personal project https://mipervalstore.com/ using `React` - `Typescript` - `Cypress` - `Jest` - `NextJs` - `NodeJs` - `Docker` - `Kubernates` - `AWS` - `PWA`
-- 🌱 I’m currently learning **Google Cloud architect & AWS solutions architect** at https://cloudacademy.com/
-- ❔ Ask me about **React, Typescript, NextJS, React-Native, Docker, Cypress, NodeJs, Testing, Nx, Kubernates, Projects Management, Software architecture & Accessibility**
+- :office: I'm currently employed fulltime as Mobile apps developer / React native engineer at BOXT.
+- 🔭 I’m currently working on personal project https://mipervalstore.com/ using `shopify`
+- ❔ Ask me about **React, React-native, Expo, bitrise, fastlane, Intercom, AbTasty, Typescript, NextJS, Testing, Nx, Projects Management, Software architecture & Accessibility**
 - 🗣 Language I do speak: **English, French, Italian**, Swahili, Luganda, Kinyarwanda
 - 📫 How to reach me: **aimadev.soft@gmail.com**
 - ⚡ Fun fact:
@@ -43,14 +41,14 @@
 - :book: Programming Typescript by making your Javascript applications scale by Boris Cherny
 - :book: Web development with Node & Express: Leveraging the Javascript Stack by Ethan Brown
 - :book: Data Science from Scratch: First principles with python by Joel Grus
-- :book: Fullstack React Native by Devin Abbott, Houssein ...
-            
+- :book: Fullstack React Native by Devin Abbott, Houssein ...           
             
 [![niyogakiza's github stats](https://github-readme-stats-tau-one.vercel.app/api?username=niyogakiza&show_icons=true&theme=radical&show=stars)](https://github.com/niyogakiza/github-readme-stats)
 [![Top Langs](https://github-readme-stats-tau-one.vercel.app/api/top-langs/?username=niyogakiza&layout=compact&theme=radical)](https://github.com/niyogakiza/github-readme-stats)
 
-
-<p align="left">
+<div align="left">
+   <a href="https://app.daily.dev/Aimadev" align="center"><img src="https://api.daily.dev/devcards/87e38e7e1ba242bb8df69c21e63b7366.png?r=imb" width="400" alt="Aimable's Dev Card"/></a>
+   <p align="right">
 <h3 align="left">Connect with me:</h3>
 <a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="sidthesloth92" height="30" width="40" /></a>
 <a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sidthesloth92" height="30" width="40" /></a>
@@ -59,3 +57,5 @@
 <a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="sidthesloth" height="30" width="40" /></a>
 <a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="sidthesloth92" height="30" width="40" /></a>
 </p>
+
+</div>
