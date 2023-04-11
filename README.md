@@ -3,7 +3,6 @@
 <h3 align="center">A passionate software developer from 🇷🇼~:it: living :uk:</h3>
 
 - :office: I'm currently employed fulltime as Mobile apps developer / React native engineer at BOXT.
-- 🔭 I’m currently working on personal project https://mipervalstore.com/ using `shopify`
 - ❔ Ask me about **React, React-native, Expo, bitrise, fastlane, Intercom, AbTasty, Typescript, NextJS, Testing, Nx, Projects Management, Software architecture & Accessibility**
 - 🗣 Language I do speak: **English, French, Italian**, Swahili, Luganda, Kinyarwanda
 - 📫 How to reach me: **aimadev.soft@gmail.com**
